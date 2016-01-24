@@ -1,4 +1,4 @@
-package br.jeveson.repository.impl;
+package br.jeveson.repository;
 
 import br.jeveson.model.CartBO;
 

@@ -22,9 +22,9 @@ import br.jeveson.model.Cart;
 import br.jeveson.model.CartBO;
 import br.jeveson.model.Item;
 import br.jeveson.model.Product;
+import br.jeveson.repository.CartBODao;
 import br.jeveson.repository.ItemDao;
 import br.jeveson.repository.ProductsDao;
-import br.jeveson.repository.impl.CartBODao;
 
 
 

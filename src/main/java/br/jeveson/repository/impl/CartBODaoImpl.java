@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Repository;
 
 import br.jeveson.model.CartBO;
+import br.jeveson.repository.CartBODao;
 import br.jeveson.repository.rowmapper.CartBORowMapper;
 
 @Repository("CartBODao")
